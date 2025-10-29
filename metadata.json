@@ -1,0 +1,5 @@
+{
+  "name": "Mockup Colorizer",
+  "description": "An AI-powered tool that applies colors from a sample image to a product mockup, generating a new, recolored product image.",
+  "requestFramePermissions": []
+}
